@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cem/Desktop/mlflow/mlruns/0/ee912b7215354e37be549b971dd78920/artifacts
+end_time: 1724581829973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee912b7215354e37be549b971dd78920
+run_name: languid-goose-233
+run_uuid: ee912b7215354e37be549b971dd78920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724581827000
+status: 3
+tags: []
+user_id: cem

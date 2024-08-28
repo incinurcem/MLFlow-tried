@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cem/Desktop/mlflow/mlruns/0/4f333be514044f258655bcce014dc77e/artifacts
+end_time: 1724761532530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f333be514044f258655bcce014dc77e
+run_name: ambitious-boar-705
+run_uuid: 4f333be514044f258655bcce014dc77e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724761529705
+status: 3
+tags: []
+user_id: cem

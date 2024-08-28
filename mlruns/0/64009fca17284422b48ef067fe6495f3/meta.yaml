@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cem/Desktop/mlflow/mlruns/0/64009fca17284422b48ef067fe6495f3/artifacts
+end_time: 1724761552284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64009fca17284422b48ef067fe6495f3
+run_name: loud-moth-723
+run_uuid: 64009fca17284422b48ef067fe6495f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724761549543
+status: 3
+tags: []
+user_id: cem
